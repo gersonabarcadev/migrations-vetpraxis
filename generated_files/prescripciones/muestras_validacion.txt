@@ -1,0 +1,78 @@
+MUESTRAS DE VALIDACIÓN - PRESCRIPCIONES
+==================================================
+
+EJEMPLOS CON MÚLTIPLES MEDICAMENTOS:
+-----------------------------------
+Ejemplo 1 (5 medicamentos):
+  ID: 99883852
+  Paciente: 128545
+  Fecha: 2018-04-19 14:17:25
+  Nota completa:
+    Tramadol 75mg
+1 1/2 tab. c/12 horas por 4 dias
+--- MEDICAMENTO SEPARADO ---
+Meloxican 4 mg
+1 tab. c/12 horas por 3 días
+--- MEDICAMENTO SEPARADO ---
+Control
+Domingo 22/04/18
+--- MEDICAMENTO SEPARADO ---
+Recomendaciones
+Bajar de peso
+--- MEDICAMENTO SEPARADO ---
+Recomendaciones
+Si en caso persiste la cojera hacer fisioterapia
+
+Ejemplo 2 (3 medicamentos):
+  ID: 99883853
+  Paciente: 128545
+  Fecha: 2018-06-10 19:03:39
+  Nota completa:
+    Tramadol 75mg
+1 1/2 comp. c / 12 horas x 4 dias
+--- MEDICAMENTO SEPARADO ---
+meloxivet 4 mg
+1 comp. c / 24 horas x 3 dias
+--- MEDICAMENTO SEPARADO ---
+Control
+13 - 06 - 18
+
+Ejemplo 3 (4 medicamentos):
+  ID: 99883854
+  Paciente: 128545
+  Fecha: 2018-06-14 05:27:36
+  Nota completa:
+    artroflex equilibrium
+1 comp. c / 12 horas x 1 mes.
+--- MEDICAMENTO SEPARADO ---
+Tramadol 75mg
+1 1/4 comp. c/ 12 horas x 1 semana
+--- MEDICAMENTO SEPARADO ---
+Hills j/d
+--- MEDICAMENTO SEPARADO ---
+Control
+24 - 06 - 18
+
+EJEMPLOS CON UN SOLO MEDICAMENTO:
+--------------------------------
+Ejemplo 1:
+  ID: 99883855
+  Paciente: 128545
+  Fecha: 2018-06-14 05:41:21
+  Nota: Sosten CG Inyectable
+2 ml vía Subcutánea   2 días seguidos ; luego aplicacion  en 1 semana
+
+Ejemplo 2:
+  ID: 99883856
+  Paciente: 128545
+  Fecha: 2021-09-05 18:59:55
+  Nota: Acido Tranexamico
+1g/10 ml (10 frascos)
+
+Ejemplo 3:
+  ID: 99883858
+  Paciente: 128545
+  Fecha: 2021-09-11 16:04:55
+  Nota: Indicaciones
+realizar consulta oncologica , Dr sergio salgado  2727819 , /987588088
+

@@ -1,0 +1,52 @@
+RESUMEN DE IMPORTACIÓN - PROCEDIMIENTOS
+==================================================
+
+Fecha de generación: 2025-09-05 15:05:39
+Total de registros procesados: 35,232
+Rango de IDs asignados: 99834681 - 99869912
+
+DISTRIBUCIÓN POR AÑO:
+  2016: 323 procedimientos
+  2017: 565 procedimientos
+  2018: 512 procedimientos
+  2019: 1,960 procedimientos
+  2020: 3,009 procedimientos
+  2021: 6,565 procedimientos
+  2022: 6,160 procedimientos
+  2023: 5,978 procedimientos
+  2024: 7,587 procedimientos
+  2025: 2,573 procedimientos
+
+RANGO DE FECHAS:
+  Desde: 2016-01-15 16:27:47
+  Hasta: 2025-05-28 21:52:31.580000
+
+ESTADÍSTICAS DE NOTAS:
+  Solo nombre del procedimiento: 27,097 (76.9%)
+  Con notas adicionales: 8,135 (23.1%)
+
+TOP 10 PROCEDIMIENTOS MÁS FRECUENTES:
+  Hemograma: 4,569 aplicaciones
+  Hemograma + Heska Comprensive: 2,333 aplicaciones
+  Hemograma + 14 parámetros : 1,662 aplicaciones
+  Ecografía abdominal : 1,334 aplicaciones
+  Placa Radiográfica : 1,150 aplicaciones
+  Placa Radiografica: 1,083 aplicaciones
+  Hemograma / perfil bioquímico : 982 aplicaciones
+  Desparasitación: 605 aplicaciones
+  Hemograma : 567 aplicaciones
+  Hemograma Manual: 561 aplicaciones
+
+ESTADÍSTICAS DE PACIENTES:
+  Pacientes únicos: 11,008
+  Promedio procedimientos por paciente: 3.20
+
+FORMATO DE ARCHIVOS:
+  Columna A: Import Clinic Record ID (correlativo desde 99834681)
+  Columna B: Import Pet ID (PatientId original)
+  Columna C: Import Date (fecha de aplicación)
+  Columna D: Note (Nombre[PARRAFO]Nota o solo Nombre)
+
+SEPARADOR:
+  [PARRAFO] - Para separar nombre del procedimiento de notas adicionales
+  Se puede reemplazar con saltos de línea en base de datos

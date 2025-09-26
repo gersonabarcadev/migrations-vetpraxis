@@ -1,0 +1,67 @@
+MUESTRAS DE VALIDACIÓN - PROCEDIMIENTOS
+==================================================
+
+EJEMPLOS CON NOTAS ADICIONALES:
+------------------------------
+Ejemplo 1:
+  ID: 99834683
+  Paciente: 137006
+  Fecha: 2016-03-23 18:52:07
+  Nota completa: consulta dia [PARRAFO]paciente llego convulsionando, mucosas congestivas, t 41. dueño reporta que no ha comido nada extraño, saco a pasear al parque vío un perro muerto. y llegando a casa empezo a tem...
+
+Ejemplo 2:
+  ID: 99834685
+  Paciente: 137388
+  Fecha: 2016-03-29 01:17:53
+  Nota completa: consulta dia [PARRAFO]Se cateterizo y se administro : -Fluidoterapia : Polielectrolitico 100 ml EV -Ampicilina : 22 mg/ kg EV -Ondasentron: 0.3 mg/kg Ev -Dipirona: 25 mg/ kg EV Omeprazol: 1 mg/kg EV
+
+Ejemplo 3:
+  ID: 99834687
+  Paciente: 137724
+  Fecha: 2016-03-30 18:12:21
+  Nota completa: consulta dia [PARRAFO]CONTINUA CON ESTERTORES HUMEDOS, TOSE EN LAS MAÑANAS Y LAS NOCHES, SE REALIZO DOS PUFF DE VENTOLIN EN LA MAÑANA, REPETIR EN LA NOCHE . APLICAR UN PUFF ESPERAR 8 SEGUNDOS . DESPUE...
+
+Ejemplo 4:
+  ID: 99834688
+  Paciente: 137724
+  Fecha: 2016-03-31 03:22:52
+  Nota completa: tratamiento inyectable[PARRAFO]consulta noche: tratamiento puff de ventolin + meropenem + revolution morado
+
+Ejemplo 5:
+  ID: 99834689
+  Paciente: 137724
+  Fecha: 2016-03-31 15:59:04
+  Nota completa: consulta dia [PARRAFO]SE MEDICO CON MEROPENEN, SE COLOCO DORAMECTINA SC ,HACER RECETA PARA USAR VENTOLIN POR UNA SEMANA , 1 PUFF  TRES VECES AL DIA
+
+EJEMPLOS SOLO CON NOMBRE DE PROCEDIMIENTO:
+----------------------------------------
+Ejemplo 1:
+  ID: 99834681
+  Paciente: 128785
+  Fecha: 2016-01-15 16:27:47
+  Nota: INTERNAMIENTO
+
+Ejemplo 2:
+  ID: 99834682
+  Paciente: 134222
+  Fecha: 2016-02-29 22:32:44
+  Nota: Cirugia Gastrotomía
+
+Ejemplo 3:
+  ID: 99834684
+  Paciente: 137185
+  Fecha: 2016-03-26 03:13:34
+  Nota: Abdominocentesis
+
+Ejemplo 4:
+  ID: 99834686
+  Paciente: 137720
+  Fecha: 2016-03-30 02:08:44
+  Nota: medicacion inyectable  
+
+Ejemplo 5:
+  ID: 99834703
+  Paciente: 137720
+  Fecha: 2016-04-15 02:38:26
+  Nota: Cistotomia
+

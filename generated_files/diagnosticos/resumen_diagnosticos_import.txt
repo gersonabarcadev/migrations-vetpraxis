@@ -1,0 +1,52 @@
+RESUMEN DE IMPORTACIÓN - DIAGNÓSTICOS
+==================================================
+
+Fecha de generación: 2025-09-05 15:27:49
+Total de registros procesados: 13,939
+Rango de IDs asignados: 99869913 - 99883851
+
+DISTRIBUCIÓN POR AÑO:
+  2016: 177 diagnósticos
+  2017: 287 diagnósticos
+  2018: 325 diagnósticos
+  2019: 1,260 diagnósticos
+  2020: 1,264 diagnósticos
+  2021: 2,113 diagnósticos
+  2022: 2,351 diagnósticos
+  2023: 2,580 diagnósticos
+  2024: 2,538 diagnósticos
+  2025: 1,044 diagnósticos
+
+RANGO DE FECHAS:
+  Desde: 2016-01-15 17:21:59
+  Hasta: 2025-05-28 20:41:49.910000
+
+ESTADÍSTICAS DE NOTAS:
+  Solo nombre del diagnóstico: 11,688 (83.9%)
+  Con notas adicionales: 2,251 (16.1%)
+
+TOP 10 DIAGNÓSTICOS MÁS FRECUENTES:
+  Gastroenteritis: 526 diagnósticos
+  Parvovirus: 257 diagnósticos
+  Leucemia felina: 190 diagnósticos
+  Erlichiosis: 188 diagnósticos
+  Gastroenteritis / Pancreatitis : 159 diagnósticos
+  Gastroenteritis : 149 diagnósticos
+  Edema pulmonar cardiogenico: 142 diagnósticos
+  Gastritis : 133 diagnósticos
+  FLUTD: 131 diagnósticos
+  Distemper: 127 diagnósticos
+
+ESTADÍSTICAS DE PACIENTES:
+  Pacientes únicos: 10,056
+  Promedio diagnósticos por paciente: 1.39
+
+FORMATO DE ARCHIVOS:
+  Columna A: Import Clinic Record ID (correlativo desde 99869913)
+  Columna B: Import Pet ID (PatientId original)
+  Columna C: Import Date (fecha de diagnóstico)
+  Columna D: Note (Nombre[PARRAFO]Nota o solo Nombre)
+
+SEPARADOR:
+  [PARRAFO] - Para separar nombre del diagnóstico de notas adicionales
+  Se puede reemplazar con saltos de línea en base de datos

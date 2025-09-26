@@ -1,0 +1,49 @@
+RESUMEN DE IMPORTACIÓN - VACUNAS
+==================================================
+
+Fecha de generación: 2025-09-04 21:22:54
+Total de registros procesados: 1,182
+
+DISTRIBUCIÓN POR AÑO:
+  2016: 23 aplicaciones
+  2017: 48 aplicaciones
+  2018: 85 aplicaciones
+  2019: 90 aplicaciones
+  2020: 123 aplicaciones
+  2021: 219 aplicaciones
+  2022: 168 aplicaciones
+  2023: 153 aplicaciones
+  2024: 196 aplicaciones
+  2025: 77 aplicaciones
+
+RANGO DE FECHAS:
+  Desde: 2016-01-12 00:57:40
+  Hasta: 2025-05-28 15:59:14.387000
+
+TOP 10 VACUNAS MÁS APLICADAS:
+  Vacuna sextuple + rabia : 136 aplicaciones
+  Vacuna quintuple + coronavirus: 120 aplicaciones
+  Vacuna quintuple + coronavirus + rabia : 120 aplicaciones
+  Vacuna contra Leptospirosis : 97 aplicaciones
+  Vacuna sextuple: 89 aplicaciones
+  Vacuna quintuple: 89 aplicaciones
+  Quintuple Canina: 72 aplicaciones
+  Vacuna Triple Felina : 68 aplicaciones
+  Sextuple Canina: 62 aplicaciones
+  Vacuna quintuple + Coronavirus + Rabia: 58 aplicaciones
+
+ESTADÍSTICAS DE PACIENTES:
+  Pacientes únicos: 641
+  Promedio vacunas por paciente: 1.84
+
+NOTAS:
+  Registros con notas: 263 (22.3%)
+
+FORMATO DE ARCHIVOS:
+  Columna A: ID Historia Clínica (generado automáticamente)
+  Columna B: ID Mascota (PatientId original)
+  Columna C: Fecha de Atención
+  Columna D: Razón de Atención (siempre 'Vacuna')
+  Columna E: Tratamiento (nombre de la vacuna)
+  Columna F: Cantidad (siempre 1)
+  Columna G: Notas adicionales

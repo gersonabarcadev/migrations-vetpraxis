@@ -1,0 +1,56 @@
+RESUMEN DE IMPORTACIÓN - PRESCRIPCIONES
+==================================================
+
+Fecha de generación: 2025-09-05 15:58:30
+Total de registros agrupados: 61,371
+Total de prescripciones originales: 243,882
+Factor de compresión: 3.97x
+Rango de IDs asignados: 99883852 - 99945222
+
+DISTRIBUCIÓN POR AÑO:
+  2016: 271 prescripciones agrupadas
+  2017: 723 prescripciones agrupadas
+  2018: 1,850 prescripciones agrupadas
+  2019: 3,377 prescripciones agrupadas
+  2020: 5,376 prescripciones agrupadas
+  2021: 8,804 prescripciones agrupadas
+  2022: 9,117 prescripciones agrupadas
+  2023: 12,146 prescripciones agrupadas
+  2024: 12,330 prescripciones agrupadas
+  2025: 7,377 prescripciones agrupadas
+
+RANGO DE FECHAS:
+  Desde: 2016-01-15 17:14:40
+  Hasta: 2025-09-04 21:06:41.320000
+
+ESTADÍSTICAS DE MEDICAMENTOS POR REGISTRO:
+  Promedio: 3.97 medicamentos
+  Mediana: 4 medicamentos
+  Máximo: 44 medicamentos
+  Mínimo: 1 medicamentos
+
+DISTRIBUCIÓN DE CANTIDAD DE MEDICAMENTOS:
+  1 medicamento(s): 10,871 registros
+  2 medicamento(s): 9,347 registros
+  3 medicamento(s): 10,006 registros
+  4 medicamento(s): 9,324 registros
+  5 medicamento(s): 7,206 registros
+  6 medicamento(s): 5,334 registros
+  7 medicamento(s): 3,656 registros
+  8 medicamento(s): 2,180 registros
+  9 medicamento(s): 1,413 registros
+  10 medicamento(s): 834 registros
+
+ESTADÍSTICAS DE PACIENTES:
+  Pacientes únicos: 17,909
+  Promedio prescripciones agrupadas por paciente: 3.43
+
+FORMATO DE ARCHIVOS:
+  Columna A: Import Clinic Record ID (correlativo desde 99883852)
+  Columna B: Import Pet ID (PatientId original)
+  Columna C: Import Date (fecha de prescripción)
+  Columna D: Note (Medicamentos agrupados con formato específico)
+
+FORMATO DE NOTA:
+  Name\nDescription\nRequestedUsage + AmountToBuy[PARRAFO]...
+  [PARRAFO] - Separador entre medicamentos del mismo registro

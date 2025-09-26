@@ -1,0 +1,63 @@
+{
+    "clientes": {
+        "HURON_AZUL": {
+            "id": "HURON_AZUL",
+            "nombre": "Clínica Huron Azul Los Olivos",
+            "nombre_carpeta": "NS_HURON_AZUL_LOS_OLIVOS",
+            "archivo_fuente": "analisis_veterinry.xlsx",
+            "carpeta_source": "source/HURON_AZUL",
+            "descripcion": "Cliente piloto con datos de prueba",
+            "activo": true,
+            "entidades": ["Procedimientos", "Diagnosticos", "Vacunas", "Apuntes"]
+        },
+        "CUVET": {
+            "id": "CUVET", 
+            "nombre": "Cliente CuVet",
+            "nombre_carpeta": "CLIENTE_CUVET",
+            "archivo_fuente": "cuvet-v2.xlsx",
+            "carpeta_source": "source/CUVET", 
+            "descripcion": "Cliente con sistema CuVet completo",
+            "activo": true,
+            "entidades": ["Procedimientos", "Diagnosticos", "Vacunas", "Apuntes", "DatosdeControl", "Prescripciones"]
+        }
+    },
+    "entidades_disponibles": {
+        "Procedimientos": {
+            "carpeta_scripts": "procedimientos",
+            "pipeline": ["analyze", "merge", "organize", "extract", "transform"],
+            "requiere_merge": true
+        },
+        "Diagnosticos": {
+            "carpeta_scripts": "diagnosticos", 
+            "pipeline": ["analyze", "merge", "organize", "extract", "transform"],
+            "requiere_merge": true
+        },
+        "Vacunas": {
+            "carpeta_scripts": "vacunas",
+            "pipeline": ["analyze", "merge", "organize", "extract", "transform"], 
+            "requiere_merge": true
+        },
+        "Apuntes": {
+            "carpeta_scripts": "apuntes",
+            "pipeline": ["analyze", "transform"],
+            "requiere_merge": false
+        },
+        "DatosdeControl": {
+            "carpeta_scripts": "datosdecontrol",
+            "pipeline": ["analyze", "organize", "transform"],
+            "requiere_merge": false
+        },
+        "Prescripciones": {
+            "carpeta_scripts": "prescripcion",
+            "pipeline": ["analyze", "organize", "transform"],
+            "requiere_merge": false
+        }
+    },
+    "configuracion": {
+        "formato_salida": "notas_unificado",
+        "validacion_estricta": true,
+        "backup_automatico": true,
+        "timeout_scripts": 300,
+        "carpeta_source": "source"
+    }
+}

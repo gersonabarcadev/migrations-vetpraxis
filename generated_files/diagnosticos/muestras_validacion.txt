@@ -1,0 +1,67 @@
+MUESTRAS DE VALIDACIÓN - DIAGNÓSTICOS
+==================================================
+
+EJEMPLOS CON NOTAS ADICIONALES:
+------------------------------
+Ejemplo 1:
+  ID: 99869914
+  Paciente: 141364
+  Fecha: 2016-04-29 00:10:44
+  Nota completa: VIF VILEF[PARRAFO]NEGATIVO
+
+Ejemplo 2:
+  ID: 99869916
+  Paciente: 142070
+  Fecha: 2016-05-04 23:06:36
+  Nota completa: inflamación en cervicales[PARRAFO]se realizo placa Rx disminucion de espacio en ult vertebra cervical
+
+Ejemplo 3:
+  ID: 99869917
+  Paciente: 142192
+  Fecha: 2016-05-06 06:14:59
+  Nota completa: Intoxicacion por ibuprofeno[PARRAFO]Vomitos y diarreas , no se sabe cuantas pastillas se tomó
+
+Ejemplo 4:
+  ID: 99869918
+  Paciente: 142445
+  Fecha: 2016-05-08 06:15:47
+  Nota completa: Colangitis y gastritis [PARRAFO]Llega para medicar vía endovenosa e intramuscular de la clinica veterinaria Cayetano Heredia
+
+Ejemplo 5:
+  ID: 99869924
+  Paciente: 142687
+  Fecha: 2016-05-11 05:02:58
+  Nota completa: Traqueobronquitis Infecciosa[PARRAFO]Dueños afirman que mascotas empezaron a toser con diferencia de 4 días entre una y otra, manifestando tos sonora e improductiva terminando en arcadas y vomito de s...
+
+EJEMPLOS SOLO CON NOMBRE DE DIAGNÓSTICO:
+----------------------------------------
+Ejemplo 1:
+  ID: 99869913
+  Paciente: 128941
+  Fecha: 2016-01-15 17:21:59
+  Nota: Leptospirosis
+
+Ejemplo 2:
+  ID: 99869915
+  Paciente: 141364
+  Fecha: 2016-04-29 00:17:52
+  Nota: Proceso viral
+
+Ejemplo 3:
+  ID: 99869919
+  Paciente: 142497
+  Fecha: 2016-05-09 14:35:05
+  Nota: Traqueitis
+
+Ejemplo 4:
+  ID: 99869920
+  Paciente: 142497
+  Fecha: 2016-05-09 14:35:06
+  Nota: Traqueitis
+
+Ejemplo 5:
+  ID: 99869921
+  Paciente: 140182
+  Fecha: 2016-05-09 22:13:07
+  Nota: Leptospirosis
+
